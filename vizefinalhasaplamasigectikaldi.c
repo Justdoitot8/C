@@ -1,23 +1,4 @@
-/* 
 
-   ALGORÝTMA ÝLE C ÖÐRENÝYORUZ 
-   
-   
-   ADIM 1: Kütüphanemizi ekleyelim
-   
-   ADIM 2: Ana fonksiykonu tanýmlayalým
-    
-   ADIM 3: Ekrana 'Hello World' yazdýralým
-   
-   ADIM 4: Programý sonlandýralým
-   
-
-
-*/
-
-
-
-/*
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -45,29 +26,6 @@ int main(){
 	return 0;	
 	
 }
-
-*/
-
-
-#include <stdio.h>
-
-int main(){
-	
-	int time=21;
-	
-	if(time>18){
-		printf("Good evening.");
-	}else{
-		printf("Good day.");
-	}
-	return 0;
-	
-	
-}
-
-
-
-
 
 
 
