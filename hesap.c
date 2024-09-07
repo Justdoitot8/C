@@ -25,7 +25,7 @@ int main(){
 switch(sec){
 		case 1:printf("birinci durumu sectiniz.\n toplama islemi sudur: %f\n",sayi1+sayi2+sayi3+sayi4);break;
 		case 2:printf("ikinci durumu sectiniz.\n bolme islemi sudur:%d\n ",sayi1/sayi2/sayi3/sayi4);break;
-		case 3:printf("ucuncu durumu secrtiniz.\n cýkarma islemi sudur: %d\n",sayi1-sayi2-sayi3-sayi4);break;
+		case 3:printf("ucuncu durumu secrtiniz.\n cÄ±karma islemi sudur: %d\n",sayi1-sayi2-sayi3-sayi4);break;
 		case 4:printf("dorduncu durumu sectiniz.\n carpma islemi sudur:%d\n ",sayi1*sayi2*sayi3*sayi4);break;
 		default:printf("yanls tuslama yaptiniz: ");
 	}
