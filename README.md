@@ -1,1 +1,3 @@
 # C
+
+büyüktenkücüge.c
