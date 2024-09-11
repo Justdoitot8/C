@@ -3,15 +3,15 @@ int main(){
 	
 	int sayi=156555;
 	
-	int tersayi=0;
+	int terssayi=0;
 	
 	while(sayi){
 		
-		tersayi=tersayi*10+sayi%10;
+		terssayi=terssayi*10+sayi%10;
 		sayi/=10;
 	}
 	
-	printf("sayi: %d", tersayi);
+	printf("sayi: %d", terssayi);
 	
 	return 0;
 	
